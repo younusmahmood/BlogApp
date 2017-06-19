@@ -1,0 +1,29 @@
+body {
+  padding-top: 20px;
+}
+
+form a {
+  margin-left: 8px;
+}
+
+ul {
+  padding-top: 15px;
+}
+
+.heading {
+  text-align: center;
+}
+
+.categories {
+  text-align: center;
+}
+
+.back-arrow {
+  font-size: 2rem;
+  transition: .2s;
+}
+
+.back-arrow:hover {
+  transition: .2s;
+  text-decoration: none;
+}
